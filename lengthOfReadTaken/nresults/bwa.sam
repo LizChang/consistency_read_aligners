@@ -1,12 +1,17 @@
 @SQ	SN:Reference	LN:1000000
 @PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:../../../bin/bwa mem reference.fasta reads.toy.example.fastq
-R10	4	*	0	0	*	*	0	0	TATACGCGGC	~~~~~~~~~~	AS:i:0	XS:i:0
-R20	4	*	0	0	*	*	0	0	TGCCCGGTTAAGTGATGCTC	~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R30	0	Reference	3061	60	30M	*	0	0	CCGACCTCGTTAGACTGAGCCTAGCTCACG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:30	AS:i:30	XS:i:0
-R40	0	Reference	6379	60	40M	*	0	0	ACGAGTCGCTATCCCCCAAGGACTCATGGAGAACGCCGTC	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:40	AS:i:40	XS:i:0
-R50	0	Reference	6291	60	50M	*	0	0	GTGGCTAGAGAGAAAAGATGACTGACTGTGCGGATCCCCCATCCAGCTGA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:50	AS:i:50	XS:i:0
-R60	0	Reference	7055	60	60M	*	0	0	CTCCCCACAAAGGACTGGATCACAGCCGGGCGTGTGATCGCGAGGTGATACACCATTTCG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:60	AS:i:60	XS:i:0
-R70	0	Reference	6149	60	70M	*	0	0	CTCCAATCGACCACTGCCGAAGCGCCATGATAGTCCTCGGTAACGGAGGTCAGGTAGGCGTGTGAACCTA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:70	AS:i:70	XS:i:0
-R80	0	Reference	7041	60	80M	*	0	0	TTCATGGTAGTTTTCTCCCCACAAAGGACTGGATCACAGCCGGGCGTGTGATCGCGAGGTGATACACCATTTCGTACTAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:80	AS:i:80	XS:i:0
-R90	0	Reference	5415	60	90M	*	0	0	TCCACGTCACCATCGCGAGCTTGCGTCGGCGAGCCGAATGCGCAGCTTACCGCTACCGCGGCCCTCAGTACCAGGCGCGCTTCGCTGCTC	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:90	AS:i:90	XS:i:0
-R100	0	Reference	6920	60	100M	*	0	0	AAGTGGGCCAGAGAAAGCTTACCAGCCACGTAGTGAGGACAAGGGCTCAAAAATGTCAAAGATCTGTGACTGCAATCCCCATCGGCTTATCCTGAATCTA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:100	AS:i:100	XS:i:0
+R34	0	Reference	5578	60	34M	*	0	0	TACATATCGTAGTTCTTGTCGAACTAGGGCGGCT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:34	AS:i:34	XS:i:0
+R38	0	Reference	2987	60	38M	*	0	0	ACCCCCTAGGTTTCCCCACTACGCTTCTTTGTTGATCT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:38	AS:i:38	XS:i:0
+R42	0	Reference	1012	60	42M	*	0	0	ACAGGTCCGCCACAAAGACGACGCTCCTGCCTCGCCGTCCGT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:42	AS:i:42	XS:i:0
+R46	0	Reference	8180	60	46M	*	0	0	TGAGCGGAACTTCCTCTCAGTGCCGGCATACCTTTCAGATTCGATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:46	AS:i:46	XS:i:0
+R50	0	Reference	1589	60	50M	*	0	0	CCCCTCATACGAAGAGGCCCAAAGGAAGGACTACTGGGGAGCCTGCTTTT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:50	AS:i:50	XS:i:0
+R54	0	Reference	5325	60	54M	*	0	0	TACTATTTATGTGTCTTTGCTGTTGTATCATAGCACTCCTTAATGGGCGTGCAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:54	AS:i:54	XS:i:0
+R58	0	Reference	1791	60	58M	*	0	0	AGTTGGCATGCCGCAACTCTCGGCTTGTTGCCTTCCGAACAGCATCGCCACTCCGACA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:58	AS:i:58	XS:i:0
+R62	0	Reference	3244	60	62M	*	0	0	GACTCTCGGAAACTATCAGTACCTATGAATACCTAGTCGCCTATCGTTTTTCCCACTGCGGC	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:62	AS:i:62	XS:i:0
+R66	0	Reference	4962	60	66M	*	0	0	AGCGGACTGGGGTTCCAAGACTCCAATCCCACGACTTGCTACCGCAAGACTTGCTGTCTATTAGCG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:66	AS:i:66	XS:i:0
+R70	0	Reference	4711	60	70M	*	0	0	CCGAGCATGTCCGATACAACACGCTAGTAATCGTTTTAATAAGATACACAGTATACCTGGATGAAAATCC	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:70	AS:i:70	XS:i:0
+R74	0	Reference	3593	60	74M	*	0	0	TAGCCCCAGTTTTGCCGAACAGCCTCGATTAGCGGGCAACATCCTTGTAGTCATACGGTAGAAATCCAAAATGA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:74	AS:i:74	XS:i:0
+R78	0	Reference	2043	60	78M	*	0	0	TTAAAAATGATTGATCGTGTGACGTCGCGTAGTCGTGAAAGCATCAGATTTGCTGGCTTGACTATAGGGGCAGTACGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:78	AS:i:78	XS:i:0
+R82	0	Reference	2596	60	82M	*	0	0	TGGATACGGTGGAGGAATGTGTCTGATGAGCAGGTCAGGCATACATGGGAGGCGCCAGGTATGTCATAGACTTAACCAACTT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:82	AS:i:82	XS:i:0
+R86	0	Reference	3188	60	86M	*	0	0	CCCTGCAACAGACAGGTCGCTTTCCCACTGGGTTACTATAAGAAGCATATTGTCAGGACTCTCGGAAACTATCAGTACCTATGAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:86	AS:i:86	XS:i:0
+R90	0	Reference	5164	60	90M	*	0	0	CGCGCTGATAGCAATCGCGCTCGGTACTACTAAGTACCGCCAGAAACAAAACACACATACGCCAACGCGGTGAGATGCATGTAAGTGATC	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:90	AS:i:90	XS:i:0

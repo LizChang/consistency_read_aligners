@@ -3,6 +3,7 @@
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/bwa.sam
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/files.txt
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/graphmap.sam
+/u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/last.sam
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/lordfast.sam
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/minialign.sam
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/lengthOfReadTaken/nresults/minimap2.sam

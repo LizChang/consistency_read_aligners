@@ -1,14 +1,34 @@
 @HD	VN:1.0	SO:unsorted
 @SQ	SN:Reference	LN:1000000
-@PG	ID:bowtie2	PN:bowtie2	VN:2.2.5	CL:"/u/home/s/shahar/anaconda3/research/consistency_read_aligners/error_density/../../../bin/bowtie2-align-s --wrapper basic-0 -x reference.fasta -U reads.toy.example.fastq"
-R0	0	Reference	5857	42	100M	*	0	0	AGGGTAATGGTAAACAACAATCAAATCTTTGGGGGTAGAAGAGGTATTCCATTAGAGTTGGCACCGTTTCCGCCTTGCAGCGATCTAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:100	YT:Z:UU
-R1	0	Reference	5857	42	100M	*	0	0	AGGGTAATGGTAAACAACAATCAAATCTTTGGGGGTAGAAGAGGTATTCCCTTAGAGTTGGCACCGTTTCCGCCTTGCAGCGATCTAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:-6	XN:i:0	XM:i:1	XO:i:0	XG:i:0	NM:i:1	MD:Z:50A49	YT:Z:UU
-R2	0	Reference	5857	40	100M	*	0	0	AGGGTAATGGTAAACAACAATCAAATCTTTGGGTGTAGAAGAGGTATTCCATTAGAGTTGGCACCGGTTCCGCCTTGCAGCGATCTAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:-12	XN:i:0	XM:i:2	XO:i:0	XG:i:0	NM:i:2	MD:Z:33G32T33	YT:Z:UU
-R3	0	Reference	5857	40	100M	*	0	0	AGGGTAATGGTAAACAACAATCAAAGCTTTGGGGGTAGAAGAGGTATTCCCTTAGAGTTGGCACCGTTTCCGCCTGGCAGCGATCTAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:-18	XN:i:0	XM:i:3	XO:i:0	XG:i:0	NM:i:3	MD:Z:25T24A24T24	YT:Z:UU
-R4	4	*	0	0	*	*	0	0	AGGGTAATGGTAAACAACAAGCAAATCTTTGGGGGTAGAATAGGTATTCCATTAGAGTTGTCACCGTTTCCGCCTTGCAGAGATCTAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
-R5	4	*	0	0	*	*	0	0	AGGGTAATGGTAAACACCAATCAAATCTTTGGTGGTAGAAGAGGTATTACATTAGAGTTGGCACAGTTTCCGCCTTGCAGAGATCTAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
-R6	4	*	0	0	*	*	0	0	AGGGTAATGGTAAAAAACAATCAAATCTGTGGGGGTAGAAGATGTATTCCATTAGATTTGGCACCGTTTCAGCCTTGCAGCGATATAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
-R7	4	*	0	0	*	*	0	0	AGGGTAATGGTACACAACAATCAACTCTTTGGGGGTCGAAGAGGTATTACATTAGAGTTGTCACCGTTTCCGACTTGCAGCGATATAAGGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
-R8	4	*	0	0	*	*	0	0	AGGGTAATGGTCAACAACAATCCAATCTTTGGGTGTAGAAGAGGGATTCCATTAGCGTTGGCACCGGTTCCGCCTTGAAGCGATCTAATGAGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
-R9	4	*	0	0	*	*	0	0	AGGGTAATGGGAAACAACAAGCAAATCTTTTGGGGTAGAATAGGTATTCCCTTAGAGTTGTCACCGTTTCAGCCTTGCAGAGATCTAAGGCGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
-R10	4	*	0	0	*	*	0	0	AGGGTAATGTTAAACAACCATCAAATCGTTGGGGGTCGAAGAGGTCTTCCATTATAGTTGGCAACGTTTCCGACTTGCAGCTATCTAAGGCGTGGTCATA	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+@PG	ID:bowtie2	PN:bowtie2	VN:2.2.5	CL:"/u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/error_density/../../../bin/bowtie2-align-s --wrapper basic-0 -x reference.fasta -U reads.toy.example.fastq"
+R0	0	Reference	4894	42	50M	*	0	0	CTGCATTGGCACCACTGGGGTCCGGCAATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XN:i:0	XM:i:0	XO:i:0	XG:i:0	NM:i:0	MD:Z:50	YT:Z:UU
+R1	0	Reference	4894	40	50M	*	0	0	CTGCATTGGCACCACTGGGGTCCGGAAATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:-6	XN:i:0	XM:i:1	XO:i:0	XG:i:0	NM:i:1	MD:Z:25C24	YT:Z:UU
+R2	4	*	0	0	*	*	0	0	CTGCATTGGCACCACTTGGGTCCGGCAATGCAATAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R3	4	*	0	0	*	*	0	0	CTGCATTGGCACAACTGGGGTCCGTCAATGCACTAGAGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R4	4	*	0	0	*	*	0	0	CTGCATTGGCCCCACTGGGGGCCGGCAATGAACTAGCGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R5	4	*	0	0	*	*	0	0	CTGCATTGTCACCACTTGGGTCCGTCAATGCAATAGCGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R6	4	*	0	0	*	*	0	0	CTGCATTTGCACCAATGGGGTACGGCAAGGCACTATCGAAGGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R7	4	*	0	0	*	*	0	0	CTGCATGGGCACAACTGGTGTCCGTCAATGAACTAGAGAAGGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R8	4	*	0	0	*	*	0	0	CTGCAGTGGCCCCACGGGGGGCCGGAAATGAACTATCGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R9	4	*	0	0	*	*	0	0	CTGCAGTGGCCCCACGGGGGGCCGGAAATGAACTATCGAATGTTTGCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R10	4	*	0	0	*	*	0	0	CTGCCTTGTCACAACTTGGGGCCGTCAAGGCAATAGAGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R11	4	*	0	0	*	*	0	0	CTGCCTTGTCACAACTTGGGGCCGTCAAGGCAATAGAGAATGTTGTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R12	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R13	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGACGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R14	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGACGGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R15	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGACGGGTTGCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R16	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R17	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R18	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R19	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R20	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R21	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R22	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTGTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R23	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTGTACGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R24	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTGTACTG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R25	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTAAATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R26	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R27	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCTGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R28	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCGGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R29	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCGTCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU
+R30	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCGTAACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	YT:Z:UU

@@ -1,33 +1,33 @@
 @SQ	SN:Reference	LN:1000000
 @PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:../../../bin/bwa mem reference.fasta reads.toy.example.fastq
-R0	0	Reference	6400	60	100M	*	0	0	CTTACGATCGACCAGAGCTATGAAATCTGATGAATTCAATTGCGACAGGCACCTATCCGGCGGATAGAGAAAGACCTTCGCTCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:100	AS:i:100	XS:i:0
-R1	0	Reference	6400	60	100M	*	0	0	CTTACGATCGACCAGAGCTATGAAATCTGATGAATTCAATTGCGACAGGCCCCTATCCGGCGGATAGAGAAAGACCTTCGCTCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:1	MD:Z:50A49	AS:i:95	XS:i:0
-R2	0	Reference	6400	60	100M	*	0	0	CTTACGATCGACCAGAGCTATGAAATCTGATGACTTCAATTGCGACAGGCACCTATCCGGCGGATATAGAAAGACCTTCGCTCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:2	MD:Z:33A32G33	AS:i:90	XS:i:0
-R3	0	Reference	6400	60	100M	*	0	0	CTTACGATCGACCAGAGCTATGAAAGCTGATGAATTCAATTGCGACAGGCCCCTATCCGGCGGATAGAGAAAGACATTCGCTCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:3	MD:Z:25T24A24C24	AS:i:85	XS:i:0
-R4	0	Reference	6400	60	100M	*	0	0	CTTACGATCGACCAGAGCTAGGAAATCTGATGAATTCAATGGCGACAGGCACCTATCCGGAGGATAGAGAAAGACCTTCGATCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:4	MD:Z:20T19T19C19C19	AS:i:80	XS:i:0
-R5	0	Reference	6400	60	100M	*	0	0	CTTACGATCGACCAGATCTATGAAATCTGATGCATTCAATTGCGACAGTCACCTATCCGGCGGAGAGAGAAAGACCTTCGATCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:5	MD:Z:16G15A15G15T15C19	AS:i:75	XS:i:0
-R6	4	*	0	0	*	*	0	0	CTTACGATCGACCATAGCTATGAAATCTTATGAATTCAATTGAGACAGGCACCTATACGGCGGATAGAGACAGACCTTCGCTCATCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R7	4	*	0	0	*	*	0	0	CTTACGATCGACAAGAGCTATGAACTCTGATGAATTAAATTGCGACAGTCACCTATCCGGAGGATAGAGAAATACCTTCGCTCATCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R8	4	*	0	0	*	*	0	0	CTTACGATCGAACAGAGCTATGCAATCTGATGACTTCAATTGCGCCAGGCACCTAGCCGGCGGATATAGAAAGACCTGCGCTCAGCAAGTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R9	4	*	0	0	*	*	0	0	CTTACGATCGCCCAGAGCTAGGAAATCTGAGGAATTCAATGGCGACAGGCCCCTATCCGGAGGATAGAGACAGACCTTCGATCAGCAATTTCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R10	4	*	0	0	*	*	0	0	CTTACGATCTACCAGAGCGATGAAATCGGATGAATTAAATTGCGAAAGGCACCTCTCCGGCGGCTAGAGAAATACCTTCGCGCAGCAATTTCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R11	4	*	0	0	*	*	0	0	CTTACGATAGACCAGATCTATGAACTCTGATGCATTCAATGGCGACAGTCACCTATACGGCGGAGAGAGAAATACCTTCGATCAGCAAGTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R12	4	*	0	0	*	*	0	0	CTTACGAGCGACCATAGCTATTAAATCTTATGAATGCAATTGAGACAGGAACCTATACGGCGGCTAGAGACAGACCTGCGCTCATCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R13	4	*	0	0	*	*	0	0	CTTACGAGCGACCATAGCTATTAAATCTTATGAATGCAATTGAGACAGGAACCTATACGGCGGCTAGAGACAGACCTGCGCTCATCAATTGATACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R14	4	*	0	0	*	*	0	0	CTTACGCTCGACAAGAGCGATGAACTCTGAGGAATTAAATTGAGACAGTCACCTCTCCGGAGGATATAGAAATACCTTAGCTCATCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R15	4	*	0	0	*	*	0	0	CTTACGCTCGACAAGAGCGATGAACTCTGAGGAATTAAATTGAGACAGTCACCTCTCCGGAGGATATAGAAATACCTTAGCTCATCAATTTCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R16	4	*	0	0	*	*	0	0	CTTACTATCGCCCAGCGCTAGGAAAGCTGAGGAATGCAATGGCGAAAGGCCCCTAGCCGGAGGATCGAGACAGACATTCGATCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R17	4	*	0	0	*	*	0	0	CTTACTATCGCCCAGCGCTAGGAAAGCTGAGGAATGCAATGGCGAAAGGCCCCTAGCCGGAGGATCGAGACAGACATTCGATCAGAAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R18	4	*	0	0	*	*	0	0	CTTACTATCGCCCAGCGCTAGGAAAGCTGAGGAATGCAATGGCGAAAGGCCCCTAGCCGGAGGATCGAGACAGACATTCGATCAGAAATTTCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R19	4	*	0	0	*	*	0	0	CTTACTATCGCCCAGCGCTAGGAAAGCTGAGGAATGCAATGGCGAAAGGCCCCTAGCCGGAGGATCGAGACAGACATTCGATCAGAAATTTCTACCAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R20	4	*	0	0	*	*	0	0	CTTAAGATAGACAAGATCTAGGAACTCTTATGCATTAAATGGCGCCAGTCACATATACGGAGGAGAGATAAATACCGTCGATCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R21	4	*	0	0	*	*	0	0	CTTAAGATAGACAAGATCTAGGAACTCTTATGCATTAAATGGCGCCAGTCACATATACGGAGGAGAGATAAATACCGTCGATCATCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R22	4	*	0	0	*	*	0	0	CTTAAGATAGACAAGATCTAGGAACTCTTATGCATTAAATGGCGCCAGTCACATATACGGAGGAGAGATAAATACCGTCGATCATCAAGTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R23	4	*	0	0	*	*	0	0	CTTAAGATAGACAAGATCTAGGAACTCTTATGCATTAAATGGCGCCAGTCACATATACGGAGGAGAGATAAATACCGTCGATCATCAAGTGCGACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R24	4	*	0	0	*	*	0	0	CTTAAGATAGACAAGATCTAGGAACTCTTATGCATTAAATGGCGCCAGTCACATATACGGAGGAGAGATAAATACCGTCGATCATCAAGTGCGACACAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R25	4	*	0	0	*	*	0	0	CTTCCGCTCTACAAGCGCGATTAACTCGGAGGACTTAAAGTGAGAAAGTCAACTCTCAGGAGGCTATAGCAATACATTCGCTCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R26	4	*	0	0	*	*	0	0	CTTCCGCTCTACAAGCGCGATTAACTCGGAGGACTTAAAGTGAGAAAGTCAACTCTCAGGAGGCTATAGCAATACATTAGCTCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R27	4	*	0	0	*	*	0	0	CTTCCGCTCTACAAGCGCGATTAACTCGGAGGACTTAAAGTGAGAAAGTCAACTCTCAGGAGGCTATAGCAATACATTAGCGCAGCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R28	4	*	0	0	*	*	0	0	CTTCCGCTCTACAAGCGCGATTAACTCGGAGGACTTAAAGTGAGAAAGTCAACTCTCAGGAGGCTATAGCAATACATTAGCGCATCAATTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R29	4	*	0	0	*	*	0	0	CTTCCGCTCTACAAGCGCGATTAACTCGGAGGACTTAAAGTGAGAAAGTCAACTCTCAGGAGGCTATAGCAATACATTAGCGCATCACTTGCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
-R30	4	*	0	0	*	*	0	0	CTTCCGCTCTACAAGCGCGATTAACTCGGAGGACTTAAAGTGAGAAAGTCAACTCTCAGGAGGCTATAGCAATACATTAGCGCATCACTTTCTACAAAAT	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R0	0	Reference	4894	60	50M	*	0	0	CTGCATTGGCACCACTGGGGTCCGGCAATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:0	MD:Z:50	AS:i:50	XS:i:0
+R1	0	Reference	4894	60	50M	*	0	0	CTGCATTGGCACCACTGGGGTCCGGAAATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	NM:i:1	MD:Z:25C24	AS:i:45	XS:i:0
+R2	4	*	0	0	*	*	0	0	CTGCATTGGCACCACTTGGGTCCGGCAATGCAATAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R3	4	*	0	0	*	*	0	0	CTGCATTGGCACAACTGGGGTCCGTCAATGCACTAGAGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R4	4	*	0	0	*	*	0	0	CTGCATTGGCCCCACTGGGGGCCGGCAATGAACTAGCGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R5	4	*	0	0	*	*	0	0	CTGCATTGTCACCACTTGGGTCCGTCAATGCAATAGCGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R6	4	*	0	0	*	*	0	0	CTGCATTTGCACCAATGGGGTACGGCAAGGCACTATCGAAGGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R7	4	*	0	0	*	*	0	0	CTGCATGGGCACAACTGGTGTCCGTCAATGAACTAGAGAAGGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R8	4	*	0	0	*	*	0	0	CTGCAGTGGCCCCACGGGGGGCCGGAAATGAACTATCGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R9	4	*	0	0	*	*	0	0	CTGCAGTGGCCCCACGGGGGGCCGGAAATGAACTATCGAATGTTTGCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R10	4	*	0	0	*	*	0	0	CTGCCTTGTCACAACTTGGGGCCGTCAAGGCAATAGAGAATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R11	4	*	0	0	*	*	0	0	CTGCCTTGTCACAACTTGGGGCCGTCAAGGCAATAGAGAATGTTGTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R12	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R13	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGACGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R14	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGACGGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R15	4	*	0	0	*	*	0	0	CTGAATGGGAACAACGGGTGTACGTCACTGAACGAGAGACGGGTTGCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R16	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R17	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R18	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R19	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R20	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R21	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R22	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTGTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R23	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTGTACGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R24	4	*	0	0	*	*	0	0	CTTCCTGGTCCCAAATTGTGGCAGTCCAGGAAATCGAGCATGGTGTACTG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R25	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTAAATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R26	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACATGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R27	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCTGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R28	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCGGCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R29	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCGTCACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0
+R30	4	*	0	0	*	*	0	0	CGTACGGTTACAACAGTTTTGAATTACCGTAACTAGCGAAGGTTTTCCGG	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	AS:i:0	XS:i:0

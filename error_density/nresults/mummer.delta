@@ -1,23 +1,2 @@
 /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/error_density/reference.fasta /u/home/s/shahar/anaconda3/lizproject/consistency_read_aligners/error_density/reads.toy.example.fasta
 NUCMER
->Reference R0 1000000 150
-2558 2707 1 150 0 0 0
-0
->Reference R1 1000000 150
-2558 2707 1 150 1 1 0
-0
->Reference R2 1000000 150
-2558 2707 1 150 2 2 0
-0
->Reference R3 1000000 150
-2558 2707 1 150 3 3 0
-0
->Reference R4 1000000 150
-2558 2707 1 150 4 4 0
-0
->Reference R5 1000000 150
-2558 2707 1 150 5 5 0
-0
->Reference R6 1000000 150
-2558 2707 1 150 6 6 0
-0

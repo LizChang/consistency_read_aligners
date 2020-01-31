@@ -30,177 +30,75 @@
 # m=1 s=121
 #
 # Query sequences=31
-a score=900 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R0           0 150 +     150 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-q R0                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
-
-a score=876 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R1           0 150 +     150 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCGCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-q R1                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
-
-a score=660 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R10          0 150 +     150 CTCGAATAATGCGCCTAGAGTTCGTTTAGATCATGATCCTATGTCAAAGTCCCTTATTTCGGACTGAGAAAAGCCTCTTACCTGAGTCAAGCCGTTGCACGATCGCGCGGTTCTAAAATACGATGGCGATGAGCTTCAGGTGACCACGTG
-q R10                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPUY[\\\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytnhb\VPJD>82,&
-
-a score=636 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R11          0 150 +     150 CTCGAATAATGCTACTAGAGTTCGGTGAGATCATGAGCCGATGTCAAATTCCATTATTTCTGACTTAGAAAATCCTCTGACCTGCGTCAAGACGTTTCACGATCTCGCTGTTCTAAACTAAGATGGCGATTATCTTCAGGTGACCACGTG
-q R11                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJOSUVVV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztttsqmhb\VPJD>82,&
-
-a score=612 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R12          0 150 +     150 CTCGAATAATGAGACTAGAGTTAGTTGAGATCAGGATCCGATGTAAAAGTCCATTCTTTCGGACTTCGAAAAGCCTCGGACCTGAGTCCAGACGTTGCAAGATCTCGCGGGTCTAAACTACTATGGCGATTATCTTCAGGTGACCACGTG
-q R12                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DIMOPPPV\bhnswyzzz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztttsqmhb\VPJD>82,&
-
-a score=588 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R13          0 150 +     150 CTCGAATAATTCGACTAGAGGTCGTTGAGAGCATGATCCGCTGTCAAAGTACATTATTTCTGACTTAGAACAGCCTCTGAACTGAGTCAATACGTTGCACTATCTCGCGGGTCTAAACTAAGATGGCGATGAGCTTCAGGTGACCACGTG
-q R13                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>CGIJJJPV\bgkmnnntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytnhb\VPJD>82,&
-
-a score=564 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R14          0 150 +     150 CTCGAATAATTCGACTAGAGGTCGTTGAGAGCATGATCCGCTGTCAAAGTACATTATTTCTGACTTAGAACAGCCTCTGAACTGAGTCAATACGTTGCACTATCTCGCGGGTCTAAACTAAGATGGCGATGAGCTTCAGGGGACCACGTG
-q R14                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>CGIJJJPV\bgkmnnntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhhhgea\VPJDDDCA=82,&
-
-a score=540 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R15          0 150 +     150 CTCGAATAAGGCGACTAGCGTTCGTTGCGATCATGAGCCGATGTCCAAGTCCATGATTTCGGAATTAGAAAATCCTCTGACATGAGTCAATACGTTGCAAGATCTCGCTGTTCTAAAATACGATGGAGATTAGCTGCAGGTGACCACGTG
-q R15                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28=ACDDDJPV[_abbbhnty}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytnhbbba_[VPJD>82,&
-
-a score=516 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R16          0 150 +     150 CTCGAATACTGCGACTCGAGTTCGGTGAGATCCTGATCCGCTGTCAAATTCCATTAGTTCGGACGTAGAAAATCCTCTGAACTGAGTCCAGACGTTTCACGATCGCGCGGTTATAAACTAAGATGGCGCTTAGCTTCAGGTGACCACGTG
-q R16                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,27;=>>>DJOSUVVV\bgkmnnntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
-
-a score=492 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R17          0 150 +     150 CTCGAATACTGCGACTCGAGTTCGGTGAGATCCTGATCCGCTGTCAAATTCCATTAGTTCGGACGTAGAAAATCCTCTGAACTGAGTCCAGACGTTTCACGATCGCGCGGTTATAAACTAAGATGGCGCTTAGCTTAAGGTGACCACGTG
-q R17                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,27;=>>>DJOSUVVV\bgkmnnntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztttsqmhb\\\[YUPJD>82,&
-
-a score=468 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R18          0 150 +     150 CTCGAATCATGCGAATAGAGTGCGTTGATATCATGCTCCGATTTCAAAGGCCATTAGTTCGGAATTAGAACAGCCTCGGACCTGCGTCAAGCCGTTGCCCGATCTAGCGGTTATAAACTCCGATGGAGATTAGCTTCAGGTGACCACGTG
-q R18                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,157888>CGIJJJPUY[\\\bgkmnnnty}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
-
-a score=444 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R19          0 150 +     150 CTCGAATCATGCGAATAGAGTGCGTTGATATCATGCTCCGATTTCAAAGGCCATTAGTTCGGAATTAGAACAGCCTCGGACCTGCGTCAAGCCGTTGCCCGATCTAGCGGTTATAAACTCCGATGGAGATTAGATTCAGGTGACCACGTG
-q R19                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,157888>CGIJJJPUY[\\\bgkmnnnty}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytnnnmkgb\VPJD>82,&
-
-a score=852 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R2           0 150 +     150 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTACATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACTATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-q R2                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
-
-a score=420 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R20          0 150 +     150 CTCGAATCATGCGAATAGAGTGCGTTGATATCATGCTCCGATTTCAAAGGCCATTAGTTCGGAATTAGAACAGCCTCGGACCTGCGTCAAGCCGTTGCCCGATCTAGCGGTTATAAACTCCGATGGAGATTAGATTCAGGGGACCACGTG
-q R20                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,157888>CGIJJJPUY[\\\bgkmnnnty}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~yzzywsnhhhgea\VVVUSOJDDDCA=82,&
-
-a score=396 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R21          0 150 +     150 CTCGAAGAATGCTACTAGCGTTCGGTGAGAGCATGAGCCGATTTCAAATTCCATGATTTCTGACTTCGAAAATCCTCTTACCTGCGTCAATACGTTTCACGAGCTCGCTGTTCTCAACTAAGATGGAGATTAGCTTCAGGTGACCACGTG
-q R21                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &+/12227;=>>>CGIJJJOSUVVV[_abbbgkmnnnswyyzy~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
-
-a score=372 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R22          0 150 +     150 CTCGAAGAATGCTACTAGCGTTCGGTGAGAGCATGAGCCGATTTCAAATTCCATGATTTCTGACTTCGAAAATCCTCTTACCTGCGTCAATACGTTTCACGAGCTCGCTGTTCTCAACTAAGATGGAGATTATCTTCAGGTGACCACGTG
-q R22                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &+/12227;=>>>CGIJJJOSUVVV[_abbbgkmnnnswyyzy~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytttsqmhb\VPJD>82,&
-
-a score=348 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R23          0 150 +     150 CTCGAAGAATGCTACTAGCGTTCGGTGAGAGCATGAGCCGATTTCAAATTCCATGATTTCTGACTTCGAAAATCCTCTTACCTGCGTCAATACGTTTCACGAGCTCGCTGTTCTCAACTAAGATGGAGATTATCTTCATGTGACCACGTG
-q R23                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &+/12227;=>>>CGIJJJOSUVVV[_abbbgkmnnnswyyzy~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytttsqmhhhgea\\\[YUPPPOMID>82,&
-
-a score=324 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R24          0 150 +     150 CTCGAAGAATGCTACTAGCGTTCGGTGAGAGCATGAGCCGATTTCAAATTCCATGATTTCTGACTTCGAAAATCCTCTTACCTGCGTCAATACGTTTCACGAGCTCGCTGTTCTCAACTAAGATGGAGATTATCTTCATGTGACAACGTG
-q R24                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &+/12227;=>>>CGIJJJOSUVVV[_abbbgkmnnnswyyzy~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}ytttsqmhhhgea\\\[YUPPPOMJDDDCA>888762,,,,*&
-
 a score=300 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R25          0 150 +     150 CTCGACTAATTCGACGAGAGGTCGTGGAGAGCATGCTCCGCTGTCCAAGTACATTCTTTCTGACTGAGAACAGCCGCTGAACTGATTCAATACGTGGCACTATCTAGCGGGTCTACACTAAGATGTCGATTAGCTTCAGGTGACCACGTG
-q R25                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &)+++,/111157777;====ACCCCGIIIIMOOOOSUUUUY[[[[_`aaaefgggklmmmqrssswxyyx|~~~}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R0          0 50 +      50 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+q R0                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
 
 a score=276 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R26          0 150 +     150 CTCGACTAATTCGACGAGAGGTCGTGGAGAGCATGCTCCGCTGTCCAAGTACATTCTTTCTGACTGAGAACAGCCGCTGAACTGATTCAATACGTGGCACTATCTAGCGGGTCTACACTAAGATGTCGATGAGCTTCAGGTGACCACGTG
-q R26                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &)+++,/111157777;====ACCCCGIIIIMOOOOSUUUUY[[[[_`aaaefgggklmmmqrssswxyyx|~~~}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}~~~|ytnhb\VPJD>82,&
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R1          0 50 +      50 GACTGGATGGGTGCTTCCATTCCCTATAATAGCCGATTTTATCAACCGGT
+q R1                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
 
 a score=252 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R27          0 150 +     150 CTCGACTAATTCGACGAGAGGTCGTGGAGAGCATGCTCCGCTGTCCAAGTACATTCTTTCTGACTGAGAACAGCCGCTGAACTGATTCAATACGTGGCACTATCTAGCGGGTCTACACTAAGATGTCGATGAGCTGCAGGTGACCACGTG
-q R27                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &)+++,/111157777;====ACCCCGIIIIMOOOOSUUUUY[[[[_`aaaefgggklmmmqrssswxyyx|~~~}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}~~}|xxxxvsssrpmmmljgggfdaaa`^[VPJD>82,&
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R2          0 50 +      50 GACTGGATGGGTGCTTACATTCCCTCTAATAGACGATTTTATCAACCGGT
+q R2                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,28>DJPV\bgkmnnntz~~~~~~~~~~~~ztttsqmhb\VPJD>82,&
 
-a score=828 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R3           0 150 +     150 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATACGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCATCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTGCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-q R3                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+a score=144 mismap=0.00228
+s Reference 772 24 + 1000000 TAATAGCCGATTTTATCAACCGGT
+s R25        26 24 +      50 TAATAGCCGATTTTATCAACCGGT
+q R25                        ~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,269:;;;;;;;;;;;;:962,&
 
-a score=180 mismap=7.06e-08
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R30          0 150 +     150 CTCGCATACTGCTACTCGAGGTCGGTGATATCCTGAGCCGCTGTAAAATTCCCTTAGTTCTGACGTAGCAAATCCTATGAACTGCGTCCAGAAGTTTCACTATCGCGCTGTTATAACCTAAGATGGCGATTAGCTTCAGGTGACCACGTG
-q R30                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              !!!!!!!!!!!!!!!!!""""""""""""""""""""##################$$$$$$$$$$$$$$%%%%%%%%%%%%&&&&&&&&''''''''(((())))****++++,---/0006<BHNTY_dfhhhhhhgea\VPJD>82,&
+a score=138 mismap=0.00896
+s Reference 773 23 + 1000000 AATAGCCGATTTTATCAACCGGT
+s R26        27 23 +      50 AATAGCCGATTTTATCAACCGGT
+q R26                        ~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,1355555555555555531,&
 
-a score=804 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R4           0 150 +     150 CTCGAATAATGCGACTAGAGTTCGTTGAGAGCATGATCCGATGTCAAAGTCCATTATTTCTGACTTAGAAAAGCCTCTGACCTGAGTCAATACGTTGCACGATCTCGCGGTTCTAAACTAAGATGGCGATTAGCTTCAGGTGACCACGTG
-q R4                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+a score=132 mismap=0.0345
+s Reference 774 22 + 1000000 ATAGCCGATTTTATCAACCGGT
+s R27        28 22 +      50 ATAGCCGATTTTATCAACCGGT
+q R27                        ~~~~~~~~~~~~~~~~~~~~~~
+p                            &+-////////////////-+&
 
-a score=780 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R5           0 150 +     150 CTCGAATAATGCGACTAGAGTTCGTGGAGATCATGATCCGATGTCAAAGTACATTATTTCGGACTTAGAAAAGCCGCTGACCTGAGTCAAGACGTTGCACTATCTCGCGGTTCTAAACTACGATGTCGATTAGCTTCAGGTGACCACGTG
-q R5                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+a score=126 mismap=0.124
+s Reference 775 21 + 1000000 TAGCCGATTTTATCAACCGGT
+s R28        29 21 +      50 TAGCCGATTTTATCAACCGGT
+q R28                        ~~~~~~~~~~~~~~~~~~~~~
+p                            %())*************))(%
 
-a score=756 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R6           0 150 +     150 CTCGAATAATGCGACTAGAGTGCGTTGAGATCATGATCCGATTTCAAAGTCCATTATTTCGGAATTAGAAAAGCCTCTGACCTGCGTCAAGACGTTGCACGATCTAGCGGTTCTAAACTACGATGGAGATTAGCTTCAGGTGACCACGTG
-q R6                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+a score=228 mismap=1e-10
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R3          0 50 +      50 GACTGGATGGGTTCTTCCATTCCCGCTAATAGCCGAGTTTATCAACCGGT
+q R3                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,28>DJOSUVVV\bhntz~~~~~~~~~~~~ztnhb\\\[YUPJD>82,&
 
-a score=732 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R7           0 150 +     150 CTCGAATAATGCGACTAGCGTTCGTTGAGATCATGAGCCGATGTCAAAGTCCATGATTTCGGACTTAGAAAATCCTCTGACCTGAGTCAATACGTTGCACGATCTCGCTGTTCTAAACTACGATGGAGATTAGCTTCAGGTGACCACGTG
-q R7                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bhnswyzzz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+a score=204 mismap=2.58e-09
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R4          0 50 +      50 GACTGGATGGTTGCTTCCATGCCCTCTAATCGCCGATTTTCTCAACCGGT
+q R4                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,28>CGIJJJPV\bgkmmmmruvvvvurmhhhgea\VPJDDDCA=82,&
 
-a score=708 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R8           0 150 +     150 CTCGAATAATGCGACTCGAGTTCGTTGAGATCCTGATCCGATGTCAAATTCCATTATTTCGGACGTAGAAAAGCCTCTGAACTGAGTCAAGACGTTTCACGATCTCGCGGTTATAAACTACGATGGCGCTTAGCTTCAGGTGACCACGTG
-q R8                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\bgkmnnntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhb\VPJD>82,&
+a score=180 mismap=6.06e-07
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R5          0 50 +      50 GACTGGATTGGTGCTTACATTCCCGCTAATAGACGATTTTCTCAACCGGT
+q R5                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,27;=>>>DJOSUUVVZ]^^_________^]ZZZZXUPJDDDCA=82,&
 
-a score=684 mismap=1e-10
-s Reference 2557 150 + 1000000 CTCGAATAATGCGACTAGAGTTCGTTGAGATCATGATCCGATGTCAAAGTCCATTATTTCGGACTTAGAAAAGCCTCTGACCTGAGTCAAGACGTTGCACGATCTCGCGGTTCTAAACTACGATGGCGATTAGCTTCAGGTGACCACGTG
-s R9           0 150 +     150 CTCGAATAATGCGACGAGAGTTCGTTGAGAGCATGATCCGATGTCCAAGTCCATTATTTCTGACTTAGAAAAGCCGCTGACCTGAGTCAATACGTTGCACGATCTAGCGGTTCTAAACTAAGATGGCGATTAGCTGCAGGTGACCACGTG
-q R9                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-p                              &,28>DJPV\aeghhhntz~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ztnhbbba_[VPJD>82,&
+a score=156 mismap=0.000145
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R6          0 50 +      50 GACTGGAGGGGTGCGTCCATTACCTCTACTAGCCGCTTTTATAAACCGGT
+q R6                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &,157888>BDEEEEFGGGGGGGGGGGGGGGGGGFEEEEDB>888751,&
+
+a score=132 mismap=0.0338
+s Reference 746 50 + 1000000 GACTGGATGGGTGCTTCCATTCCCTCTAATAGCCGATTTTATCAACCGGT
+s R7          0 50 +      50 GACTGGCTGGGTTCTTCCCTTCCCGCTAATCGCCGAGTTTATAAACCGGT
+q R7                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+p                            &*,----///////////////////////////////////////.-+&
 
